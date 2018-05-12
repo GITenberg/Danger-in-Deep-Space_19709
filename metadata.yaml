@@ -1,0 +1,48 @@
+_repo: Danger-in-Deep-Space_19709
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Ley, Willy
+    birthdate: 1906
+    deathdate: 1969
+    gutenberg_agent_id: '36959'
+    url: http://www.gutenberg.org/2009/agents/36959
+    wikipedia: http://en.wikipedia.org/wiki/Willy_Ley
+  illustrator:
+    agent_name: Glanzman, Louis
+    gutenberg_agent_id: '8082'
+    url: http://www.gutenberg.org/2009/agents/8082
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rockwell, Carey
+    gutenberg_agent_id: '8081'
+    url: http://www.gutenberg.org/2009/agents/8081
+description: Carey Rockwell is the pseudonym used for the author of the Tom Corbet
+  Space Cadet series of books written for young boys. This 1950's series included
+  books, comic strips, coloring books and television shows. The Tom Corbett space
+  series consists of eight books, which may have been based on the novel Space Cadet
+  by Robert Heinlein. The series follows the adventures of Tom and his friend Roger
+  as they train to be members of the Solar Guard. The stories center around the academy,
+  the bunkroom and their training ship Polaris. Their adventures take them to alien
+  worlds in our solar syst.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19709'
+  lccn: '53008503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interstellar travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Science fiction'
+- !lcsh 'Astronauts -- Juvenile fiction'
+- !lcsh 'Corbett, Tom (Fictitious character) -- Juvenile fiction'
+title: Danger in Deep Space
+url: http://www.gutenberg.org/ebooks/19709
